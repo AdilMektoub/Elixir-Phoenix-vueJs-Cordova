@@ -1,0 +1,5 @@
+*.db
+assets/data
+assets/etc/grafana/
+assets/bin
+node_exporter-0.18.1.linux-amd64.tar.gz
